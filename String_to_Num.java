@@ -1,5 +1,5 @@
 package Campus;
-
+//change string to number
 import java.util.Scanner;
 
 public class String_to_Num {
